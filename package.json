@@ -1,0 +1,22 @@
+{
+  "name": "testeable",
+  "version": "1.0.0",
+  "description": "Testeable app for Tester team",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalanya/testeable.git"
+  },
+  "author": "Jose Alanya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalanya/testeable/issues"
+  },
+  "homepage": "https://github.com/jalanya/testeable#readme"
+}
